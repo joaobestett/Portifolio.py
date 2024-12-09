@@ -162,7 +162,7 @@ def atualizar_usuario_gui():
     senha = entry_senha.get()
     atualizar_usuario(email, nome, senha)
 
-# Funções GUI para produtos
+
 def adicionar_produto_gui():
     nome = entry_nome_produto.get()
     preco = entry_preco_produto.get()
